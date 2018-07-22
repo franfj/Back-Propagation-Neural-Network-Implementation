@@ -1,0 +1,56 @@
+Train data: data/TRAIN.txt
+Max epochs: 100000
+Execution time: 62.914
+Test data: data/TEST.txt
+Network{LEARNING_RATE=0.5, nInputNodes=4, nHiddenLayers=2, hiddenLayersSizes=[3, 3]}
+Real value: 3698.29 | Predicted value: 3763.152591258692
+Real value: 1935.13 | Predicted value: 1959.994366796342
+Real value: 4509.67 | Predicted value: 4451.417634849084
+Real value: 5708.99 | Predicted value: 5757.3822694093615
+Real value: 2024.05 | Predicted value: 2057.6240662473165
+Real value: 3981.74 | Predicted value: 4045.469289946037
+Real value: 6171.22 | Predicted value: 6271.64106671377
+Real value: 4427.36 | Predicted value: 4401.7429455270885
+Real value: 2117.9 | Predicted value: 2104.236716254525
+Real value: 2692.87 | Predicted value: 2678.0740376220992
+Real value: 3237.11 | Predicted value: 3251.9606710805365
+Real value: 3558.33 | Predicted value: 3562.6140364902953
+Real value: 2327.54 | Predicted value: 2311.951921913391
+Real value: 4063.3499999999995 | Predicted value: 4078.538591472835
+Real value: 3838.09 | Predicted value: 3903.2225696499254
+Real value: 6098.9 | Predicted value: 6166.555069105613
+Real value: 3432.48 | Predicted value: 3470.612799127425
+Real value: 2042.36 | Predicted value: 2058.5612346567664
+Real value: 2841.89 | Predicted value: 2845.019912145235
+Real value: 4572.62 | Predicted value: 4593.680285565152
+Real value: 4384.97 | Predicted value: 4374.251909889814
+Real value: 6297.76 | Predicted value: 6387.124698335738
+Real value: 2589.43 | Predicted value: 2529.9355895320587
+Real value: 2569.39 | Predicted value: 2558.3048344440463
+Real value: 4192.01 | Predicted value: 4193.310332381178
+Real value: 3692.94 | Predicted value: 3701.073343988476
+Real value: 2081.66 | Predicted value: 2100.437379293446
+Real value: 4591.21 | Predicted value: 4815.7855303246215
+Real value: 2590.7 | Predicted value: 2595.0326354490862
+Real value: 4102.62 | Predicted value: 4147.6146068287335
+Real value: 2865.92 | Predicted value: 2844.2435233853384
+Real value: 3090.96 | Predicted value: 3092.0014090503028
+Real value: 4096.06 | Predicted value: 4069.943513619044
+Real value: 1938.47 | Predicted value: 1967.9213172067364
+Real value: 4801.54 | Predicted value: 4801.05736010548
+Real value: 3299.93 | Predicted value: 3352.802653513757
+Real value: 3670.99 | Predicted value: 3690.4246772693614
+Real value: 3743.5599999999995 | Predicted value: 3749.4823254076055
+Real value: 3128.97 | Predicted value: 3143.1460715069384
+Real value: 1776.96 | Predicted value: 1865.3224081409608
+Real value: 5153.46 | Predicted value: 5167.473006274952
+Real value: 5016.03 | Predicted value: 4930.0265080168765
+Real value: 3618.87 | Predicted value: 3634.238863650427
+Real value: 5632.13 | Predicted value: 5680.623656680338
+Real value: 5283.22 | Predicted value: 5271.605149987354
+Real value: 2337.68 | Predicted value: 2256.2602411468833
+Real value: 6451.24 | Predicted value: 6532.720434534655
+Real value: 4806.83 | Predicted value: 4774.276584270838
+Real value: 4450.58 | Predicted value: 4470.876066278572
+Real value: 2893.53 | Predicted value: 2904.106136812536
+Error rate: 0.6600281414518268

@@ -1,0 +1,28 @@
+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ª¼¡µ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ã©
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(¢ìşë
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(…½ì‹
+Lsquid:S1854"7Remove this useless assignment to local variable "aux".(­şĞ¯
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(†÷Ú¥úÿÿÿÿ
+ssquid:S00116"XRename this field "LEARNING_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ºæßúÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(úÆ²øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÔ¬şÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ˆúËà
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(õÆÃçûÿÿÿÿ
+;squid:S1170"!Make this final field static too.(›ºæßúÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(¶Ú¿
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(×çïôıÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(¶Ú¿
+squid:S00116"kRename this field "DEFAULT_N_UNITS_PER_HIDDEN_LAYER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ãÒ
+6squid:S1170"!Make this final field static too.(¶ãÒ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ§‰Ì

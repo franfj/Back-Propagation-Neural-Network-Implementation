@@ -1,0 +1,16 @@
+
+2squid:S2095"Close this "FileInputStream".(²ÚÆ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÉÙ®³şÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(©¦êÔ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÄÛ­Ğùÿÿÿÿ
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ªÚÁ½
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ƒÌ–8‘„çŒ÷+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(§÷öÍüÿÿÿÿ
+rsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•”¬O8ÀæŒ÷+
